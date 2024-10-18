@@ -7,7 +7,7 @@ using System.Windows.Media;
 
 namespace WpfRichTextBox01
 {
-    internal class AutoSizingRichTextBox : RichTextBox
+    public class AutoSizingRichTextBox : RichTextBox
     {
         public AutoSizingRichTextBox()
         {
